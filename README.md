@@ -17,13 +17,13 @@
 🌐 My Portfolio
 
 <p align="center">
-  <a href="https://soumenkarmakar.netlify.app/" target="_blank">
+  <a href="https://soumenkarmakar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/✨%20EXPLORE%20MY%20PORTFOLIO-0e75b6?style=for-the-badge" alt="Explore Portfolio"/>
   </a>
 </p><p align="center">
   <b>👨‍💻 Developer • 🎨 Creative • 🚀 Builder</b>
 </p><p align="center">
-  <a href="https://soumenkarmakar.netlify.app/" target="_blank">
+  <a href="https://soumenkarmakar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-soumenkarmakar.netlify.app-black?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Website"/>
   </a>
 </p>---
@@ -31,7 +31,7 @@
 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://instagram.com/sonpaapdii__" target="_blank">
+  <a href="https://instagram.com/soumenkarmakarofficial" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>  <a href="https://www.youtube.com/c/bhoot" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
@@ -50,20 +50,12 @@
   </a>
 </p>---
 
-📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=withsoumen&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=withsoumen&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>---
-
 💼 Let's Build Something Together
 
 <p align="center">
   <a href="mailto:techwithsizzii@gmail.com">
     <img src="https://img.shields.io/badge/📩%20Get%20In%20Touch-0e75b6?style=for-the-badge" alt="Contact Me"/>
-  </a>  <a href="https://soumenkarmakar.netlify.app/" target="_blank">
+  </a>  <a href="https://soumenkarmakar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20View%20Portfolio-111111?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p><p align="center">

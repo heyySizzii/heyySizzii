@@ -12,7 +12,7 @@
 - 📚 Currently learning and improving my development skills
 - 📫 How to reach me: techwithsizzii@gmail.com
 
----
+
 
 🌐 My Portfolio
 
@@ -26,7 +26,7 @@
   <a href="https://soumenkarmakar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-soumenkarmakar.netlify.app-black?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Website"/>
   </a>
-</p>---
+</p>
 
 🤝 Connect with Me
 
@@ -36,7 +36,7 @@
   </a>  <a href="https://youtube.com/@soumenkarmakarofficial" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
-</p>---
+</p>
 
 🛠️ Languages & Tools
 
@@ -48,7 +48,7 @@
   </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-</p>---
+</p>
 
 💼 Let's Build Something Together
 
